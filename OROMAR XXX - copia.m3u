@@ -1,0 +1,57 @@
+#EXTM3U
+
+#EXTINF:-1,OROMAR TV
+http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1,DARK(terror)
+http://edge201.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8
+
+#EXTINF:-1,DKISS
+http://edge5.telesport.pw/live/dkiss/index.m3u8
+
+#EXTINF:-1, ADULTOS
+
+#EXTINF:-1,VENUS
+http://edge6.telesport.pw/live/venus/index.m3u8
+#EXTINF:-1,VENUZ
+http://edge4.livesports.pw/live/vervenus89d1209cbb91cd49a/index.m3u8
+
+#EXTINF:-1,PLAYBOY
+http://edge1.telesport.pw/live/playboy/index.m3u8
+#EXTINF:-1,PLAYGIRL
+http://edge6.livesports.pw/live/ver6fec1df85209490fcdba5c/index.m3u8
+
+#EXTINF:-1,HUSTLER
+http://edge2.telesport.pw/live/hustler/index.m3u8
+#EXTINF:-1,HUSTLAR
+http://edge3.livesports.pw/live/verhustelar19be54d37b4056/index.m3u8
+
+#EXTINF:-1,PENTHOUSE
+http://edge6.livesports.pw/live/verpenthousedee5857d5db2c/index.m3u8
+
+#EXTINF:-1,HOT TV
+http://edge5.livesports.pw/live/verhotplus599c96c4f2d6f5e/index.m3u8
+
+#EXTINF:-1,SEXTATION
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
+
+#EXTINF:-1,Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1,Jasmin TV HD
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1,Ask
+http://edge2.everyon.tv/etv2sb/phd10771/playlist.m3u8
+
+#EXTINF:-1,BS24 Live
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+
+#EXTINF:-1,Playboy Asia
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/exabytetv.m3u8
+
+#EXTINF:-1,Miami Tv
+http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/chunklist_w324994460_b1896000.m3u8
+
+#EXTINF:-1,Miami Tv
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
